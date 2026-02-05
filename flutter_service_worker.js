@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/app/app.zip": "1cdf3011cb9ede44be362870a51d67ee",
-"assets/app/app.zip.hash": "a1acc677ae9467badaeed472d258376a",
+const RESOURCES = {"assets/app/app.zip": "005da98f1955cf15aebbefcedf6b594c",
+"assets/app/app.zip.hash": "357172138bfa0899c57a5290726b54e2",
 "assets/AssetManifest.bin": "5e4c69c57b629fa3c0fbf78c71c4db94",
 "assets/AssetManifest.bin.json": "992ba04d5892193176350dad1f95a2ec",
 "assets/FontManifest.json": "9bd568e67ff3c6c597e4f9494ef71249",
@@ -33,7 +33,7 @@ const RESOURCES = {"assets/app/app.zip": "1cdf3011cb9ede44be362870a51d67ee",
 "favicon.png": "41e5bc5ad6aab67633b4d31c0aa2b8ab",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "flutter.js.map": "b0053d0f522eea08c12809f1843c34c9",
-"flutter_bootstrap.js": "9b3659985813d0f9fd3fd56f3a1743e5",
+"flutter_bootstrap.js": "cffe93b8f482a40aff79b26c4a1ab538",
 "icons/apple-touch-icon-192.png": "8cf0d5162941f467a77f023c414a1812",
 "icons/Icon-192.png": "d1f96bab23c50fe5f5db429aabbac81a",
 "icons/Icon-512.png": "0b1dcfc1bd6c872904999125eaf18b58",
